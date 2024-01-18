@@ -7,6 +7,8 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Telegram](https://t.me/itachiinthesky) [Twitter](https://twitter.com/besumicheal) [Linkdin](https://www.linkedin.com/in/besufikad-tilahun-6592281b4)
 - 😄 Pronouns: He/Him
+
+[![wakatime](https://wakatime.com/badge/user/878e86a6-8cd1-46ca-92a0-8a22ea5e6437.svg)](https://wakatime.com/@878e86a6-8cd1-46ca-92a0-8a22ea5e6437)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Besufikad17&label=Profile%20views&color=0e75b6&style=flat" alt="Besufikad17" /> </p>
 
 ## GitHub Stats
