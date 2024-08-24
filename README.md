@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on Web and Desktop
 - 🌱 I’m currently learning MERN stack and Adobe Illustrator
-- 👯 I’m looking to collaborate on any thing that is interesting
+- 👯 I’m looking to collaborate on anything that is interesting
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Telegram](https://t.me/itachiinthesky) [Twitter](https://twitter.com/besumicheal) [Linkdin](https://www.linkedin.com/in/besufikad-tilahun-6592281b4)
+- 📫 How to reach me: [Telegram](https://t.me/itachiinthesky) [Twitter](https://twitter.com/besumicheal) [Linkedin](https://www.linkedin.com/in/besufikad-tilahun-6592281b4)
 - 😄 Pronouns: He/Him
 
 [![wakatime](https://wakatime.com/badge/user/878e86a6-8cd1-46ca-92a0-8a22ea5e6437.svg)](https://wakatime.com/@878e86a6-8cd1-46ca-92a0-8a22ea5e6437)
