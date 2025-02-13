@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Web and Desktop
-- 🌱 I’m currently learning MERN stack and Adobe Illustrator
-- 👯 I’m looking to collaborate on anything that is interesting
+- 🔭 I’m currently working on Web and Android App development
+- 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Telegram](https://t.me/itachiinthesky) [Twitter](https://twitter.com/besumicheal) [Linkedin](https://www.linkedin.com/in/besufikad-tilahun-6592281b4)
 - 😄 Pronouns: He/Him
